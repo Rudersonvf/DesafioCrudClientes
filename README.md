@@ -5,7 +5,7 @@
 
 Desafio do curso de desenvolvedor moderno administrado pela Dev Superior.
 Trata-se de um projeto que consiste em rodar um back-end de uma aplicação simples, com operações de CRUD na base de dados clientes e tratamento de excessões com respostas personalizadas.
-Projeto está configurado com ambiente de testes acessando o banco de dados H2, usa o Maven como gerenciador de dependências e o Java como linguagem.
+Projeto está configurado com ambiente de testes acessando o banco de dados H2 já com seeding, usa o Maven como gerenciador de dependências e o Java como linguagem.
 Para testes é usado o Postman.
 
 ## Layout
