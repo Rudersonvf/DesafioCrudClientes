@@ -28,7 +28,7 @@ Pré-requisitos: JDK 17
 Clonar o repositorio para a maquina local e executar.
 
 Para consultas utilizando o Postman:
-https://blue-equinox-929965.postman.co/workspace/Team-Workspace~f559c074-042d-4e75-8ee4-abd28703cd66/collection/23209222-a8a418dd-2025-4778-9d09-897d9df3076f?action=share&creator=23209222
+https://elements.getpostman.com/redirect?entityId=23209222-bce046f6-2de8-4c0d-a330-6ba225948e78&entityType=collection
 
 # Autor
 
