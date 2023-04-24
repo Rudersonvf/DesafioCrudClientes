@@ -27,13 +27,10 @@ Pré-requisitos: JDK 17
 
 Clonar o repositorio para a maquina local e executar.
 
-Para consultas utilizando o Postman:
-https://www.postman.com/blue-equinox-929965/workspace/public/collection/23209222-a8a418dd-2025-4778-9d09-897d9df3076f?action=share&creator=23209222
+Para consultas utilizando o Postman: [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/23209222-a8a418dd-2025-4778-9d09-897d9df3076f?action=collection%2Ffork&collection-url=entityId%3D23209222-a8a418dd-2025-4778-9d09-897d9df3076f%26entityType%3Dcollection%26workspaceId%3D2dd17639-788a-4644-8426-1af66851eacb)
 
 # Autor
 
 Ruderson Florentino
 
 https://www.linkedin.com/in/rudersonvf
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/23209222-a8a418dd-2025-4778-9d09-897d9df3076f?action=collection%2Ffork&collection-url=entityId%3D23209222-a8a418dd-2025-4778-9d09-897d9df3076f%26entityType%3Dcollection%26workspaceId%3D2dd17639-788a-4644-8426-1af66851eacb)
