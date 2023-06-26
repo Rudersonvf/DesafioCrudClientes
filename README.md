@@ -9,9 +9,9 @@ Projeto está configurado com ambiente de testes acessando o banco de dados H2 j
 Para testes é usado o Postman.
 
 ## Layout
-![Layout 1](https://github.com/Rudersonvf/assets/blob/main/crudJava.png)
+![Layout 1](https://raw.githubusercontent.com/Rudersonvf/assets/main/crud1.png)
 
-![Layout 2](https://github.com/Rudersonvf/assets/blob/main/crudPost.png)
+![Layout 2](https://raw.githubusercontent.com/Rudersonvf/assets/main/crud3.png)
 
 ## Diagrama da classe
 ![Modelo Conceitual](https://github.com/Rudersonvf/assets/blob/main/clientUML.png)
